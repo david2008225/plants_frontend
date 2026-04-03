@@ -1,0 +1,75 @@
+{
+    "plants": [
+        {
+            "id": 1,
+            "name": "Dieffenbachia",
+            "image": "/Dieffenbachia.png",
+            "description": "A tropical plant with large variegated leaves, popular for indoor decoration and low maintenance care.",
+            "price": 18
+        },
+        {
+            "id": 2,
+            "name": "Calathea",
+            "image": "/Calathea.png",
+            "description": "A decorative foliage plant known for its patterned leaves that move in response to light.",
+            "price": 25
+        },
+        {
+            "id": 3,
+            "name": "Blue Columnar Cactus",
+            "image": "/Blue Columnar Cactus.png",
+            "description": "A tall, drought-tolerant cactus with a bluish tint, perfect for bright and dry indoor spaces.",
+            "price": 22
+        },
+        {
+            "id": 4,
+            "name": "Monstera Deliciosa",
+            "image": "/Monstera.png",
+            "description": "A trendy houseplant with large split leaves, ideal for adding a tropical vibe to interiors.",
+            "price": 30
+        },
+        {
+            "id": 5,
+            "name": "Dracaena",
+            "image": "/Dracaena.png",
+            "description": "An easy-care plant with long green leaves, great for improving indoor air quality.",
+            "price": 20
+        },
+        {
+            "id": 6,
+            "name": "Snake Plant",
+            "image": "/SnakePlant.png",
+            "description": "A hardy plant with upright leaves that thrives in low light and requires minimal watering.",
+            "price": 24
+        }
+    ],
+    "reviews":[
+        {
+
+            "id":1,
+            "img":"/person 2.jpg",
+            "user":"Maxn Raval",
+            "rating":4.5,
+            "review":"Lorem ipsum dolor, sit amet consectetur adipisicing",
+            "date":"2026-03-25"
+        },
+        {
+            "id":2,
+            "img":"/person 1.jpg",
+            "user":"venely k",
+            "rating":2.5,
+            "review":"Lorem ipsum dolor, sit amet consectetur adipisicing",
+            "date":"2026-01-29"
+        },
+        {
+
+            "id":3,
+            "img":"/person 3.jpg",
+            "user":"Lii thakur",
+            "rating":5,
+            "review":"Lorem ipsum dolor, sit amet consectetur adipisicing",
+            "date":"2025-11-09"
+        }
+
+    ]
+}
