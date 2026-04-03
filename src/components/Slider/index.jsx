@@ -1,6 +1,6 @@
 import React from 'react'
 import philodendron from '/philodendron.png'
-
+import right_arrow from '../../assets/arrow.png'
 const Slider = () => {
     return (
         <div className='h-[100vh] bg-[#1b2316] w-full flex  justify-center items-center'>
@@ -18,6 +18,13 @@ const Slider = () => {
                         <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit nostrum distinctio tempore. Voluptatibus quae asperiores magnam pariatur, architecto quod at error blanditiis reiciendis, nobis nisi odit numquam aliquid temporibus nam consectetur possimus repellendus, obcaecati quasi odio quisquam dolorem. Assumenda sapiente architecto magnam.</p>
                         <div className=''>
                             <button className='w-[120px] h-[40px] border border-2 rounded-xl '>Explore</button>
+                            <div>
+                                <button></button>
+                                <button>
+                                    <img src={right_arrow} alt="" />
+                                </button>
+                            </div>
+                    
                         </div>
                     </div>
                 </div>
