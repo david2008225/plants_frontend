@@ -11,7 +11,7 @@ const Reviews = () => {
     }, [])
     return (
         <div className='min-h-screen bg-[#1b2316] py-16 px-6 text-white '>
-            <h1 className='text-center'>Customer Review</h1>
+            <h1 className='text-center text-2xl mb-10 font-semibold'>Customer Review</h1>
             <div className='flex gap-8'>
                 {
                     reviews.map((review) => (
